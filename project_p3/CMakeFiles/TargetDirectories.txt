@@ -1,0 +1,6 @@
+/home/panda/Downloads/project_p3/CMakeFiles/rebuild_cache.dir
+/home/panda/Downloads/project_p3/CMakeFiles/edit_cache.dir
+/home/panda/Downloads/project_p3/CMakeFiles/evaluate.dir
+/home/panda/Downloads/project_p3/includes/CMakeFiles/rebuild_cache.dir
+/home/panda/Downloads/project_p3/includes/CMakeFiles/edit_cache.dir
+/home/panda/Downloads/project_p3/includes/CMakeFiles/utils.dir

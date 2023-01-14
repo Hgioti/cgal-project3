@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -DNDEBUG   CMakeFiles/evaluate.dir/main.cpp.o CMakeFiles/evaluate.dir/includes/Incremental.cpp.o CMakeFiles/evaluate.dir/includes/ConvexHull.cpp.o CMakeFiles/evaluate.dir/includes/Polygon.cpp.o  -o evaluate  includes/libutils.a /usr/lib/x86_64-linux-gnu/libmpfr.so /usr/lib/x86_64-linux-gnu/libgmp.so -pthread 
